@@ -7,7 +7,7 @@ const Projectpage = () => {
         <div id='projects' className='w-full h-auto'>
             <div className='max-w-[1240px] mx-auto px-2 py-16'>
                 <p className='text-xl tracking-widest uppercase text-[#5651e5]'>Projects</p>
-                <p className='text-6xl py-4'>What I've Built</p>
+                <p className='text-6xl py-4'>What Ive Built</p>
             
                 <div className='grid md:grid-cols-2 gap-8'>
 
