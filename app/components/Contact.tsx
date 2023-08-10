@@ -25,7 +25,7 @@ const Contact = () =>{
                                 </p>
                                 <p>Engineer</p>
                                 <p>
-                                    Available for freelancing work, Let's talk about it
+                                    Available for freelancing work, Lets talk about it
                                 </p>
                             </div>
                             <div>
